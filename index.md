@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-
+![Image text](https://github.com/Jinwen-Fu/FerretInfo/blob/2f8c5f5691be856019e22a105a2d30c9e16b72f6/IMG_1065.JPG)
 You can use the [editor on GitHub](https://github.com/Jinwen-Fu/FerretInfo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
